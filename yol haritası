@@ -1,0 +1,28 @@
+Tamam, seni en temelden başlayıp sağlam bir şekilde ilerleteceğim. Python'da güçlü olman için önce temel yapıları iyi oturtmalıyız. O yüzden şu şekilde ilerleyelim:
+
+Python Yol Haritamız
+✅ 1. Temel Konular (Şu an buradayız)
+
+Değişkenler ve Veri Tipleri
+input() ile kullanıcıdan veri alma
+print() ile çıktı verme
+Matematiksel işlemler (toplama, çıkarma, çarpma, bölme, üs alma, mod alma)
+✅ 2. Koşullu İfadeler (if-else)
+
+Girilen sayının tek mi çift mi olduğunu bulma
+Girilen sayının pozitif mi negatif mi olduğunu bulma
+Basit bir not hesaplama programı
+✅ 3. Döngüler (for - while)
+
+1’den 10’a kadar sayıları yazdırma
+Kullanıcıdan alınan sayıya kadar olan sayıların toplamını bulma
+Çarpım tablosu oluşturma
+✅ 4. Listeler ve Diziler
+
+Girilen 5 sayıyı listeye ekleyip ortalamayı hesaplama
+Liste içindeki en büyük ve en küçük sayıyı bulma
+✅ 5. Fonksiyonlar
+
+Kendini tekrar eden kodları fonksiyon haline getirme
+Dairenin alanını hesaplayan bir fonksiyon yazma
+🔜 Sonrasında: Algoritmalar, nesne yönelimli programlama, ileri Python konularına geçeceğiz.

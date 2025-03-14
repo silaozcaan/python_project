@@ -1,0 +1,8 @@
+Şu an görünürde yapmayı planladığım projeler:
+Hava Durumu Uygulaması
+Liste Tabanlı Bir Sıralama ve Arama Programı
+Basit bir Kütüphane Yönetim Sistemi
+Mini Anket Uygulaması
+Bir Takvim Uygulaması
+Kelime Tahmin Oyunu
+Üçgen Hesaplayıcı
