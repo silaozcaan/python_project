@@ -1,26 +1,179 @@
-Python Yol Haritamız
-✅ 1. Temel Konular (Şu an buradayız)
+### Python Programlama Kapsamlı Öğrenme Planı
 
-Değişkenler ve Veri Tipleri
-input() ile kullanıcıdan veri alma
-print() ile çıktı verme
-Matematiksel işlemler (toplama, çıkarma, çarpma, bölme, üs alma, mod alma)
-✅ 2. Koşullu İfadeler (if-else)
+---
 
-Girilen sayının tek mi çift mi olduğunu bulma
-Girilen sayının pozitif mi negatif mi olduğunu bulma
-Basit bir not hesaplama programı
-✅ 3. Döngüler (for - while)
+## 1. Temel Konular
+### Amaç: Python'un temel yapı taşlarını öğrenmek
+- **Değişkenler ve Veri Tipleri**
+- **Matematiksel İşlemler**
+- **Koşullu İfadeler (if-else)**
+- **Döngüler (for-while)**
+- **Listeler ve Diziler**
 
-1’den 10’a kadar sayıları yazdırma
-Kullanıcıdan alınan sayıya kadar olan sayıların toplamını bulma
-Çarpım tablosu oluşturma
-✅ 4. Listeler ve Diziler
+#### Örnek Projeler:
+- Kullanıcının yaşını hesaplayan program
+- Girilen metni ters çeviren program
+- Basit bir hesap makinesi
 
-Girilen 5 sayıyı listeye ekleyip ortalamayı hesaplama
-Liste içindeki en büyük ve en küçük sayıyı bulma
-✅ 5. Fonksiyonlar
+---
 
-Kendini tekrar eden kodları fonksiyon haline getirme
-Dairenin alanını hesaplayan bir fonksiyon yazma
-🔜 Sonrasında: Algoritmalar, nesne yönelimli programlama, ileri Python konularına geçeceğiz.
+## 2. Fonksiyonlar
+### Amaç: Kendi fonksiyonlarımızı yazarak kod tekrarını önlemek
+- **Fonksiyon Tanımlama**
+- **Parametre Alan Fonksiyonlar**
+- **Geri Dönen (return) Fonksiyonlar**
+- **Lambda Fonksiyonları**
+- **Rekürsif (Kendi Kendini Çağıran) Fonksiyonlar**
+
+#### Örnek Projeler:
+- Kullanıcının yaşını yıl bazında hesaplayan fonksiyon
+- Girilen metni ters çeviren fonksiyon
+- Gelişmiş hesap makinesi fonksiyonu
+
+---
+
+## 3. Algoritmalar ve Problem Çözme
+### Amaç: Python ile düşünmeyi öğrenmek
+
+- **Sıralama Algoritmaları**
+  - Bubble Sort (Kabarcık Sıralama)
+  - Selection Sort (Seçmeli Sıralama)
+  - Insertion Sort (Eklemeli Sıralama)
+
+- **Arama Algoritmaları**
+  - Linear Search (Doğrusal Arama)
+  - Binary Search (İkili Arama)
+
+- **Matematiksel Algoritmalar**
+  - Asal Sayı Bulma
+  - Fibonacci Serisi
+  - Ebob - Ekok hesaplama
+
+#### Örnek Projeler:
+- Büyük harf-küçük harf çeviren program
+- Rastgele şifre üreten program
+- ATM simülasyonu
+
+---
+
+## 4. Nesne Yönelimli Programlama (OOP)
+### Amaç: Daha profesyonel Python projeleri yazabilmek
+- **Sınıflar (Class) ve Nesneler (Object)**
+- **Kalıtım (Inheritance)**
+- **Polymorphism (Çok Biçimlilik)**
+- **Kapsülleme (Encapsulation)**
+- **Soyutlama (Abstraction)**
+
+#### Örnek Projeler:
+- "Araba" sınıfı oluşturup hız, model gibi özellikleri yönetme
+- Kullanıcı giriş sistemleri için bir "Kullanıcı" sınıfı
+
+---
+
+## 5. Veri Yapıları
+### Amaç: Daha verimli veri yönetimi sağlamak
+- **Stack (Yığın) – Geri alma (undo) işlemleri için**
+- **Queue (Kuyruk) – Sıralı veri işlemleri için**
+- **Linked List – Daha optimize bellek kullanımı için**
+- **Dictionary – Key-Value yapısı ile hızlı erişim**
+- **Set – Tekrarsız veri kümeleri**
+
+#### Örnek Projeler:
+- Geri alma (Undo) özelliği ekleyen bir program
+- Kütüphane kitap takip sistemi
+- Telefon rehberi uygulaması
+
+---
+
+## 6. Dosya İşlemleri
+### Amaç: Programların veri saklayabilmesini sağlamak
+- **Dosya Okuma ve Yazma (read, write)**
+- **CSV Dosyaları ile Çalışma**
+- **JSON Veri Yapısı Kullanımı**
+
+#### Örnek Projeler:
+- Not Defteri Uygulaması
+- Kullanıcı kayıt ve giriş sistemi
+- Günlük tutma uygulaması
+
+---
+
+## 7. Veri Tabanı Kullanımı (SQL – SQLite)
+### Amaç: Kalıcı veri saklama ve yönetimi öğrenmek
+- **SQL Temelleri**
+- **SQLite ile Python Bağlantısı**
+- **CRUD İşlemleri (Create, Read, Update, Delete)**
+- **Verileri Filtreleme ve Sıralama**
+
+#### Örnek Projeler:
+- Kişisel Ajanda
+- Kullanıcı Yönetim Sistemi
+
+---
+
+## 8. API Kullanımı
+### Amaç: Dış dünyadaki verilere erişmek
+- **REST API Kullanımı**
+- **Requests Modülü ile API Çağrıları**
+- **Hava Durumu API Kullanımı**
+- **JSON Verileri İşleme**
+
+#### Örnek Projeler:
+- Hava durumu uygulaması
+- Döviz kuru takip programı
+- Çeviri programı
+
+---
+
+## 9. Web Scraping (Veri Çekme)
+### Amaç: Web sayfalarından veri toplama
+- **BeautifulSoup ile Web Verisi Çekme**
+- **Selenium ile Dinamik Sayfalardan Veri Çekme**
+- **Pandas ile Veri Analizi**
+
+#### Örnek Projeler:
+- Haber sitelerinden manşetleri çekme
+- Trend olan ürünleri listeleme
+- Instagram takipçi sayısı çekme
+
+---
+
+## 10. Gelişmiş Python Konuları
+### Amaç: Performanslı ve gelişmiş Python kodları yazmak
+- **Çoklu İş Parçacığı (Threading)**
+- **Decorator Kullanımı**
+- **Asenkron Programlama (asyncio)**
+- **GUI (Grafik Arayüz) – Tkinter ile uygulamalar**
+
+#### Örnek Projeler:
+- Çoklu İndirme Programı
+- Basit bir Not Defteri (GUI ile)
+- Müzik Çalar Programı
+
+---
+
+## 11. Python ile Yapay Zeka & Veri Bilimi
+### Amaç: Python'un gerçek dünya kullanım alanlarını keşfetmek
+- **NumPy ile Veri İşleme**
+- **Pandas ile DataFrame Kullanımı**
+- **Matplotlib ve Seaborn ile Görselleştirme**
+- **Makine Öğrenmesi (Scikit-Learn)**
+
+#### Örnek Projeler:
+- Verilerden grafikler çıkarma
+- Satış tahmini yapma
+- Yüz tanıma uygulaması
+
+---
+
+## 12. Final Projeler
+### Amaç: Öğrenilen her şeyi kullanarak gerçek bir proje geliştirmek
+
+#### Örnek Final Projeleri:
+- **E-Ticaret Sitesi Backend'i**
+- **Kişisel Finans Takip Programı**
+- **Oyun Skor Takip Sistemi**
+- **Gelişmiş Not Defteri Uygulaması**
+
+---
+
